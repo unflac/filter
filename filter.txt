@@ -1,4 +1,4 @@
-!-- 20221025d
+!-- 20221025e
 ||popin.cc^
 ||dable.io^
 ||mobon.net^
@@ -204,8 +204,11 @@ kav.so##.widget
 kissjav.li##.adv
 kissjav.li###player-advertising
 kissjav.li###player-advertising-mobile
-xhwide6.com##.wio-dright-rectangle
-xhwide6.com##.wio-d.bottom-widget-section
+xhwide6.com##.wio-pbanner-container
+xhwide6.com##.wio-ppremium-overlay
+xhwide6.com##.wio-p
+xhwide6.com##.bottom-widget-section
+xhwide6.com##.wio-dright-rectanglebottom-widget-section
 xhwide6.com##.cookie-announce
 xhwide6.com##.wio-xbottom-banner
 xhwide6.com##footer
@@ -217,12 +220,11 @@ xhwide6.com##.controls__line:nth-of-type(6)
 xhwide6.com##.description-text
 xhwide6.com##.dyltv-container
 xhwide6.com##.native.wiz-spot-container.list-items.wiz-right-rectangle
-xhwide6.com##.no-popunder.bottom-widget-section
-xhwide6.com##.no-popunder.companion-ads
-xhwide6.com##.no-popunder.cookie-announce
-xhwide6.com##.no-popunder.wih-spb
-xhwide6.com##.no-popunder.wih-spot-container.wih-player
-xhwide6.com##.no-popunder.wih-spot-container.wih-player > .traffic-stars
+xhwide6.com##.companion-ads
+xhwide6.com##.cookie-announce
+xhwide6.com##.wih-spb
+xhwide6.com##.wih-spot-container.wih-player
+xhwide6.com##.wih-spot-container.wih-player > .traffic-stars
 xhwide6.com##.player-add-overlay
 xhwide6.com##.premium-overlay
 xhwide6.com##.promo-message
@@ -272,16 +274,11 @@ xhwide6.com##.hasParental
 xhwide6.com##.parental-bg
 xhwide6.com##.parental-control
 xhwide6.com##.default-footer
-xhwide6.com##.group_d_six.wio-p--top.wio-p
-xhwide6.com##.wio-p--middle.wio-p
 xhwide6.com##.footer__top-part > .footer-earn.footer__earn
-xhwide6.com##.wio-p--bottom.wio-p
 xhwide6.com##.heading.page-title
 xhwide6.com##.promo-message__with-button.promo-message__banner.promo-message
 xhwide6.com##.pornstars-online__inline
 xhwide6.com##.dyltv-mobile.dyltv-container
-xhwide6.com##.wio-pbanner-container
-xhwide6.com##.page-2.wio-ppremium-overlay
 pornhub.com##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
 pornhub.com###welcomeVideoMsg
 pornhub.com##.premiumAdvertWrapper
@@ -610,9 +607,9 @@ naver.com##.N\=a\:banner\.mem
 naver.com##.N\=a\:pcs\.mem
 sports.naver.com##.InlineBanner_comp_promotion__gGDfO
 sports.naver.com##[class^="TopBanner_comp_top_banner"]
-sports.news.naver.com##.home_side_ad
-sports.news.naver.com##.home_spot
-sports.news.naver.com##.news_ad
+news.naver.com##.home_side_ad
+news.naver.com##.home_spot
+news.naver.com##.news_ad
 terms.naver.com##.banner_area
 tv.naver.com##.banner_now
 tv.naver.com##.col1 > [href="https://now.naver.com/about"]
@@ -760,3 +757,7 @@ aliexpress.com##.top-banner-container
 aliexpress.com##.product-fix-sns
 aliexpress.com##.image-poplayer-modal
 aliexpress.com##.multi-sidebar-outer
+stackoverflow.com##.js-consent-banner
+nid.naver.com###nudge_tooltip
+nid.naver.com##.nudge_banner
+shopping.naver.com##[href^="https://order.pay.naver.com/home"]
