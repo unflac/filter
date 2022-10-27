@@ -1,8 +1,9 @@
-!-- 20221025e
+!-- 20221027a
 ||popin.cc^
 ||dable.io^
 ||mobon.net^
 ||nene02.com^
+||pltapad.com^
 nene02.com##.top_layer_wrap
 nene02.com##[class^="system"]
 nene02.com##.at-footer
@@ -194,6 +195,12 @@ booktoki160.com##.text-center.well
 booktoki160.com###hd_pop
 booktoki160.com###id_mbv
 booktoki160.com###main-banner-view
+hitomi.la##.donate
+hitomi.la##[class^="\38"]
+hitomi.la##[id^="\sticky-banner"]
+hitomi.la##video
+hitomi.la##.exo-ipp
+hitomi.la##.heowgtOverlay
 kav.so/wp-content/uploads/2021/11/TKFM.gif
 kav.so##.af-blocks
 kav.so##.af-main-banner-latest-posts
@@ -295,6 +302,7 @@ xvideos.com###ad-tower-div
 xvideos.com###footer
 xvideos.com###video-ad
 xvideos.com##.premium-results-line
+xvideos.com##.hide-if-premium
 ztube.org##.footer
 ztube.org##[class^="nativeAds"]
 ztube.org##[id^="nativeAds"]
@@ -761,3 +769,29 @@ stackoverflow.com##.js-consent-banner
 nid.naver.com###nudge_tooltip
 nid.naver.com##.nudge_banner
 shopping.naver.com##[href^="https://order.pay.naver.com/home"]
+insight.co.kr##.g-aside-banner
+insight.co.kr##.fixed-bottom-ad
+jtbc.co.kr##.popup-live-wrap
+jtbc.co.kr##.player_top
+sedaily.com##.main_wid_banner
+sisain.co.kr##.m-topbanner
+sisain.co.kr##.banner_box
+imbc.com##.s_ad
+edaily.co.kr###ran_NewsLetter
+edaily.co.kr###taboola-below-article-thumbnails
+edaily.co.kr##.ad_list_00
+edaily.co.kr##.relTarget
+sports.naver.com##[class^="BrandTrendStory"]
+sports.naver.com##[class^="Shopping"]
+sports.naver.com##[class^="HomeBanner"]
+sports.naver.com##[class^="LiveShopping"]
+sports.naver.com##[class^="LessonProgram"]
+sports.naver.com##[class^="GolfPromotionBanner"]
+sports.naver.com##[class^="LessonGroup_link_sponsor_area"]
+sports.naver.com##.link_banner
+brand.naver.com##.N\=a\:banner2\.one
+apkmirror.com##.ains
+apkmirror.com##.apkm-timed-slider
+apkmirror.com##.widget_appmanager_sppostswidget
+theinformation.com##.ti-awareness-bar
+danawa.com##.tooltip_layer
