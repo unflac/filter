@@ -1,4 +1,4 @@
-!-- 20221030a
+!-- 20221030b
 ||popin.cc^
 ||dable.io^
 ||mobon.net^
@@ -211,6 +211,8 @@ kav.so##.widget
 kissjav.li##.adv
 kissjav.li###player-advertising
 kissjav.li###player-advertising-mobile
+kissjav.li###player-fluid_logo_image
+kissjav.li##.fluid_nonLinear_bottom
 xhwide6.com##.wio-pbanner-container
 xhwide6.com##.wio-ppremium-overlay
 xhwide6.com##.wio-p
@@ -290,6 +292,7 @@ pornhub.com##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
 pornhub.com###welcomeVideoMsg
 pornhub.com##.premiumAdvertWrapper
 pornhub.com###welcome
+pornhub.com##.removeAdLink
 xvideos.com###mobile-slogan
 xvideos.com##.video-ad
 xvideos.com##.remove-ads
