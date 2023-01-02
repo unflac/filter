@@ -1,4 +1,3 @@
-!-- 20221030d
 ||popin.cc^
 ||dable.io^
 ||mobon.net^
@@ -342,12 +341,7 @@ bananamall.co.kr##.banner_phone_cs
 bananamall.co.kr##.legacy_banners
 bananamall.co.kr##.banner-lnb
 bananamall.co.kr##.backToTop
-bananamall.co.kr##.wrap_dlvry_info
-bananamall.co.kr##.offline_in_detail
-bananamall.co.kr##.oid-tabs
-bananamall.co.kr##.wrap_prd_review
 bananamall.co.kr##.wrap_banner_cntnt_full_width
-bananamall.co.kr##.outer_cntnt_full_width
 bananamall.co.kr##.banner_txt_evt_flash
 about.google###cookieBar
 about.google###google-hats-survey
@@ -563,7 +557,6 @@ naver.com##.id_comp_promotion
 naver.com##.id_comp_promotion_tablet
 naver.com##.id_comp_recipe_special.grid1
 naver.com##.id_comp_style_promotion.grid1
-naver.com##.logo_area
 naver.com##.ly_service
 naver.com##.MM_ECONOMIC_INDEX_EDIT_ALERT.ce_ly_show.ce_ly_setting
 naver.com##.MM_PREMIUM_NEWS.id_comp_premium.grid1
@@ -861,3 +854,27 @@ mt.co.kr###sbsb_link
 mt.co.kr##.channel_kakao
 mt.co.kr##.channel_naver
 mt.co.kr##.ftarea1
+daum.net##.box_todayshopping
+daum.net##.\32 210_DOUBLE_TESLA
+ohou.se##.css-19e9iu3
+news.naver.com##._pressmain_status_alert_layer
+news.naver.com##.aside_shopping_v2
+naver.com##.sc_shopcast
+sports.naver.com##.banner_wrap
+sports.naver.com##[class^="SponsorDA"]
+sports.naver.com##[class^="ADMore_link_ad_more"]
+news.naver.com##.media_journalistcard_summary_tooltip
+news.naver.com##.media_journalistcard_summary_talk_new
+game.naver.com##[class^="detail_banner"]
+game.naver.com##[class^="banner_banner"]
+sporki.com##.type-banner
+||sports-phinf.pstatic.net/20221123_123/1669162048845YpDh1_PNG/10.%BB%E7%C0%CC%B5%E5%BD%BA%C5%B2_PC%C3%E0%B1%B8_%B1%D7%B7%A3%C0%FA_%BF%C0%C5%B8%BC%F6%C1%A4.png$image
+11st.co.kr##.c_product_view_banner2
+buy.11st.co.kr##.c_order_ad
+comic.naver.com##.band_banner
+youtube.com##ytd-compact-movie-renderer.ytd-item-section-renderer.style-scope
+||sports-phinf.pstatic.net/20221203_268/1669995326127TTOLf_PNG/%B1%D7%B8%B25.png$image
+yna.co.kr##.aside-wrap01
+kissjav.li##.adv-footer
+terms.naver.com##.banner
+asianporn.li###player-advertising
