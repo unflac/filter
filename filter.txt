@@ -1184,3 +1184,6 @@ cafe.naver.com##.FormNoticeContent
 7customs.com##.pd0.pull-right.top-nav
 7customs.com##.logo-new
 7customs.com##.mgb5.mgt5.center
+7customs.com##.app-my
+7customs.com##.logo-new-m
+7customs.com##.collapsed.navbar-toggle
