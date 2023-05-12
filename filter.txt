@@ -1148,63 +1148,39 @@ silverpic.com##.roll
 imgsen.com##.roll
 shopping.naver.com##[class^="bookSearchList_book_search_list"]
 shopping.naver.com##[class^="grocery_grocery_area"]
-nene02.com##.top_layer_wrap
-nene02.com##[class^="system"]
-nene02.com##.at-footer
-nene02.com##.at-go
-nene02.com##.at-main.at-col.col-md-9 > div.row
-nene02.com##.at-menu
-nene02.com##.basic-banner
-nene02.com##.hidden-xs.hidden-sm > .div-title-underbar
-nene02.com##.hidden-xs.hidden-sm > .widget-box
-nene02.com##.hidden-xs.hidden-sm > [href="http://open.kakao.com/o/s2ituaO"]
-nene02.com##.hidden-xs.hidden-sm > div.div-title-underbar
-nene02.com##.m-header
-nene02.com##.pc-header
-nene02.com##.sideright
-nene02.com##.widget-basic-member-list
-nene02.com##[href="https://open.kakao.com/o/sWryhzyc"]
-nene02.com##[src="../img/tele2.gif"]
-nene02.com###hd_pop
-nene02.com###undefined-sticky-wrapper
-nene02.com###upnote
-nene02.com##a[href^="http://nene02.com/bbs/board.php"]
-nene02.com##marquee
-nene02.com##.hidden-xs
-nene02.com##.meinbener
-nene02.com##div.row-cols-xl-3.row-cols-sm-2.row-cols-1.row
-nene02.com##.navbar-light
-nene03.com##.top_layer_wrap
-nene03.com##[class^="system"]
-nene03.com##.at-footer
-nene03.com##.at-go
-nene03.com##.at-main.at-col.col-md-9 > div.row
-nene03.com##.at-menu
-nene03.com##.basic-banner
-nene03.com##.hidden-xs.hidden-sm > .div-title-underbar
-nene03.com##.hidden-xs.hidden-sm > .widget-box
-nene03.com##.hidden-xs.hidden-sm > [href="http://open.kakao.com/o/s2ituaO"]
-nene03.com##.hidden-xs.hidden-sm > div.div-title-underbar
-nene03.com##.m-header
-nene03.com##.pc-header
-nene03.com##.sideright
-nene03.com##.widget-basic-member-list
-nene03.com##[href="https://open.kakao.com/o/sWryhzyc"]
-nene03.com##[src="../img/tele2.gif"]
-nene03.com###hd_pop
-nene03.com###undefined-sticky-wrapper
-nene03.com###upnote
-nene03.com##a[href^="http://nene02.com/bbs/board.php"]
-nene03.com##marquee
-nene03.com##.hidden-xs
-nene03.com##.meinbener
-nene03.com##div.row-cols-xl-3.row-cols-sm-2.row-cols-1.row
-nene03.com##.navbar-light
+youtube.com##.ytd-watch-metadata.style-scope > .ytd-menu-renderer.style-scope.top-level-buttons
+picbaron.com##.roll
+naver.com##.id_comp_shortform_new.grid1
+pay.naver.com##[class^="BottomAds_article"]
+aliexpress.com###J_xiaomi_dialog
 nene03.com/data/member/ne/*
 nene03.com/nariya/skin/level/*
 nene03.com/data/member/*
 nene03.com/img/*
 nene02.com/img/*
-youtube.com##.ytd-watch-metadata.style-scope > .ytd-menu-renderer.style-scope.top-level-buttons
-picbaron.com##.roll
-naver.com##.id_comp_shortform_new.grid1
+nene02.com/data/editor/*
+nene03.com/data/editor/*
+nene03.com##.pc-header
+nene03.com###undefined-sticky-wrapper
+nene03.com##.at-main.at-col.col-md-9 > .row
+nene03.com##.widget-box
+nene03.com###upnote
+nene03.com##.hidden-xs.hidden-sm > div.div-title-underbar
+nene03.com##.at-go
+nene03.com###hd_pop
+nene03.com##marquee
+pay.naver.com##.area_recommend_ad
+pay.naver.com##._aitemsInfos_index_0.spot_shopping
+cafe.naver.com##.FormNoticeContent
+7customs.com##body > .mgt10
+7customs.com##.pdl-pc.col-lg-8
+7customs.com##.pdr-pc.col-lg-4
+7customs.com##.menu-box.center.no-padding.mgt10.br10.col-xs-12.col-sm-12.col-md-12.col-lg-12
+7customs.com##.style\=.background-color-white.bottom-shadow.bblr10.no-padding.col-xs-12.col-lg-12
+7customs.com##div.btlr10.mgt10.no-padding.main-board.col-xs-12.col-lg-12:nth-of-type(12)
+7customs.com##div.btlr10.mgt10.no-padding.main-board.col-xs-12.col-lg-12:nth-of-type(14)
+7customs.com##div.background-color-white.bottom-shadow.bblr10.no-padding.col-xs-12.col-lg-12:nth-of-type(15)
+7customs.com##.white-bg.no-padding.container-fluid.main-header > .navbar
+7customs.com##.pd0.pull-right.top-nav
+7customs.com##.logo-new
+7customs.com##.mgb5.mgt5.center
