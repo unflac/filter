@@ -1613,3 +1613,6 @@ talks.naver.com##[class^="Tooltip_wrap"]
 naver.com##.MACRO_TOOLTIP
 naver.com###MM_search_containetal
 pay.naver.com##[class^="PaymentLayout_tooltip"]
+shopping.naver.com##[class^="subFilter_tooltip"]
+pay.naver.com##[class^="ShortcutNpay-module_article"]
+pay.naver.com##[class^="BigBanner_article"]
