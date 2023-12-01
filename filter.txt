@@ -1611,4 +1611,4 @@ m.naver.com##.layer_plusdeal_float
 talks.naver.com##[class^="AdBanner_wrap"]
 talks.naver.com##[class^="Tooltip_wrap"]
 m.naver.com##.MACRO_TOOLTIP
-
+m.naver.com###MM_search_container
