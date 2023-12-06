@@ -1,3 +1,4 @@
+!-- 231206
 ###u_confirm_wrapper_pc
 ||cdn.spotvnow.co.kr/dist/asset/purchase-banner.png$image
 ||dable.io^
@@ -1102,7 +1103,6 @@ search.naver.com##.view_press
 search.naver.com##[class^="_fe_intent_influencer_tooltip_first_visit"]
 search.naver.com##[class^="_fe_intent_influencer_tooltip_root"]
 search.naver.com##[class^="_tooltip_first_visit"]
-search.shopping.naver.com##.ad
 section.blog.naver.com##.area_advertisement
 section.blog.naver.com##.register_layer
 sedaily.com##.main_wid_banner
@@ -1126,23 +1126,6 @@ shopping.interpark.com##.ad
 shopping.interpark.com##.adArea
 shopping.interpark.com##.headerMarketing
 shopping.interpark.com###categoryBanner
-shopping.naver.com##.N\=a\:itm\.membanner
-shopping.naver.com##.nv-openmain
-shopping.naver.com##[class^="banner"]
-shopping.naver.com##[class^="bookSearchList_book_search_list"]
-shopping.naver.com##[class^="grocery_grocery_area"]
-shopping.naver.com##[class^="itemsGrid_other_recommend"]
-shopping.naver.com##[class^="liveBanner_live_banner"]
-shopping.naver.com##[class^="mallArea_mall_area"]
-shopping.naver.com##[class^="membershipBanner_link_banner"]
-shopping.naver.com##[class^="membershipBanner_membership_banner"]
-shopping.naver.com##[class^="openMainButton_open_main_button"]
-shopping.naver.com##[class^="product_btn_zzim"]
-shopping.naver.com##[class^="product_layer_info"]
-shopping.naver.com##[class^="recommendBrand_brand_recommend"]
-shopping.naver.com##[class^="recommendItem_btn_zzim"]
-shopping.naver.com##[class^="recommendTrend_recommend_trend"]
-shopping.naver.com##[class^="topBanners_banner_area"]
 silverpic.com##.roll
 silverpic.com##div:nth-of-type(7)
 silverpic.com##iframe
@@ -1592,14 +1575,11 @@ talks.naver.com##[class^="Tooltip_wrap"]
 naver.com##.MACRO_TOOLTIP
 naver.com###MM_search_containetal
 pay.naver.com##[class^="PaymentLayout_tooltip"]
-shopping.naver.com##[class^="subFilter_tooltip"]
 pay.naver.com##[class^="ShortcutNpay-module_article"]
 pay.naver.com##[class^="BigBanner_article"]
 naver.com##.ctp_help_text
 coolenjoy.net##.top-banner
 coolenjoy.net##.wing-right
-serieson.naver.com##[class^="Modal_root"]
-serieson.naver.com##body:style(overflow: auto !important;)
 www.reddit.com###credential_picker_container
 series.naver.com##.dimmed_pop
 series.naver.com##.ly_cookie_popup
@@ -1609,7 +1589,15 @@ serieson.naver.com##[class^="HomeContainer_advertisement_banner"]
 serieson.naver.com##[class^="GlobalNavigationBar_membership_tooltip"]
 serieson.naver.com##.end_banner
 serieson.naver.com##.membership_tooltip
+serieson.naver.com##[id^="Modal_root"]
+serieson.naver.com##[id^="Modal_backdrop"]
+serieson.naver.com##[id^="Modal_content"]
 serieson.naver.com##[class^="Modal_root"]
+serieson.naver.com##[class^="Modal_backdrop"]
+serieson.naver.com##[class^="Modal_content"]
+serieson.naver.com##body:style(overflow: auto !important;)
+serieson.naver.com##html:style(overflow: auto !important;)
+serieson.naver.com##html,body:style(overflow: auto !important;)
 comic.naver.com##.desc_bottom
 novel.naver.com##.home_add_a
 novel.naver.com##._launchApp\(\).link_series
@@ -1646,9 +1634,52 @@ naver.com##[class^="_link_wrap"]
 naver.com##.comp_giftshop_banner
 naver.com##.MM_DO_NOT_AD_POSITION
 news.naver.com###_LEVERAGE_PROMOTION
-serieson.naver.com##body:style(overflow: auto !important;)
 serieson.naver.com##[class^="RecommendsPage_advertisement_section"]
 serieson.naver.com##[class^="RecommendsPage_banner"]
 serieson.naver.com##[class^="AppBanner_root"]
 serieson.naver.com##[class^="MembershipBanner"]
 serieson.naver.com##[class^="AppLauncher"]
+pay.naver.com##[class^="MortgageBanner_article"]
+game.naver.com##[class^="gnbMetaItem_induce"]
+game.naver.com##[class^="ticket_popup_layer"]
+ekyc.naver.com##.banner_area
+dict.naver.com###_id_mobile_ad
+m-pkgtour.naver.com##.LineBanner
+m-pkgtour.naver.com##.nplus_banners
+m-pkgtour.naver.com##.Main_banner
+m-pkgtour.naver.com##.CouponPopup
+hotels.naver.com##[class^="EventBanner_EventBanner"]
+place.naver.com###m_myplace_visit_top
+place.naver.com###m_myplace_home
+place.naver.com###m_myplace_home_top
+m-flight.naver.com##[class^="banner_ImageBanners"]
+booking.naver.com##.section_category
+naver.com###MM_aside_smartad_container
+naver.com###HOME_AD
+naver.com##.brick-house.grid1_wrap > div.brick-vowel > .id_nmap.grid1
+naver.com##.brick-house.grid1_wrap > div.brick-vowel > .MM_DA_SMARTCHANNEL.id_smartchannel.id_nmap.grid1
+naver.com##.id_nmap.grid1
+naver.com##.MM_DA_SMARTCHANNEL.id_smartchannel.id_nmap.grid1
+youtube.com##ytm-watch-metadata-app-promo-renderer
+blog.naver.com##.se-placesMap-bookmark-layer
+blog.naver.com##.fade_in._buddyRecommendationLayer.lyr_add_buddy
+shopping.naver.com##.ad
+shopping.naver.com##.N\=a\:itm\.membanner
+shopping.naver.com##.nv-openmain
+shopping.naver.com##[class^="banner"]
+shopping.naver.com##[class^="bookSearchList_book_search_list"]
+shopping.naver.com##[class^="grocery_grocery_area"]
+shopping.naver.com##[class^="itemsGrid_other_recommend"]
+shopping.naver.com##[class^="liveBanner_live_banner"]
+shopping.naver.com##[class^="mallArea_mall_area"]
+shopping.naver.com##[class^="membershipBanner_link_banner"]
+shopping.naver.com##[class^="membershipBanner_membership_banner"]
+shopping.naver.com##[class^="openMainButton_open_main_button"]
+shopping.naver.com##[class^="product_btn_zzim"]
+shopping.naver.com##[class^="product_layer_info"]
+shopping.naver.com##[class^="recommendBrand_brand_recommend"]
+shopping.naver.com##[class^="recommendItem_btn_zzim"]
+shopping.naver.com##[class^="recommendTrend_recommend_trend"]
+shopping.naver.com##[class^="topBanners_banner_area"]
+shopping.naver.com##[class^="subFilter_tooltip"]
+shopping.naver.com##[class^="shoppingLiveShortClip_shopping_live_short_clip"]
