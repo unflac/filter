@@ -1,4 +1,4 @@
-!-- 231206
+!-- 231206a
 ###u_confirm_wrapper_pc
 ||cdn.spotvnow.co.kr/dist/asset/purchase-banner.png$image
 ||dable.io^
@@ -1116,8 +1116,6 @@ series.naver.com##.end_my_overview
 series.naver.com##.footer_banner
 series.naver.com##.lego_banner_main
 series.naver.com##.NE\=a\:foi.second_stage.ho_com_w
-serieson.naver.com##.app_banner_wrap
-serieson.naver.com##.lst_ad
 shop.danawa.com##.banner-container
 shop.danawa.com###topDownWingBanner
 shop.interpark.com##.adBannerBox
@@ -1583,21 +1581,6 @@ coolenjoy.net##.wing-right
 www.reddit.com###credential_picker_container
 series.naver.com##.dimmed_pop
 series.naver.com##.ly_cookie_popup
-serieson.naver.com##[class^="HomeAside_aside_banner"]
-serieson.naver.com##[class^="HomeAsideStaticBanner_banner"]
-serieson.naver.com##[class^="HomeContainer_advertisement_banner"]
-serieson.naver.com##[class^="GlobalNavigationBar_membership_tooltip"]
-serieson.naver.com##.end_banner
-serieson.naver.com##.membership_tooltip
-serieson.naver.com##[id^="Modal_root"]
-serieson.naver.com##[id^="Modal_backdrop"]
-serieson.naver.com##[id^="Modal_content"]
-serieson.naver.com##[class^="Modal_root"]
-serieson.naver.com##[class^="Modal_backdrop"]
-serieson.naver.com##[class^="Modal_content"]
-serieson.naver.com##body:style(overflow: auto !important;)
-serieson.naver.com##html:style(overflow: auto !important;)
-serieson.naver.com##html,body:style(overflow: auto !important;)
 comic.naver.com##.desc_bottom
 novel.naver.com##.home_add_a
 novel.naver.com##._launchApp\(\).link_series
@@ -1634,11 +1617,6 @@ naver.com##[class^="_link_wrap"]
 naver.com##.comp_giftshop_banner
 naver.com##.MM_DO_NOT_AD_POSITION
 news.naver.com###_LEVERAGE_PROMOTION
-serieson.naver.com##[class^="RecommendsPage_advertisement_section"]
-serieson.naver.com##[class^="RecommendsPage_banner"]
-serieson.naver.com##[class^="AppBanner_root"]
-serieson.naver.com##[class^="MembershipBanner"]
-serieson.naver.com##[class^="AppLauncher"]
 pay.naver.com##[class^="MortgageBanner_article"]
 game.naver.com##[class^="gnbMetaItem_induce"]
 game.naver.com##[class^="ticket_popup_layer"]
@@ -1663,6 +1641,19 @@ naver.com##.MM_DA_SMARTCHANNEL.id_smartchannel.id_nmap.grid1
 youtube.com##ytm-watch-metadata-app-promo-renderer
 blog.naver.com##.se-placesMap-bookmark-layer
 blog.naver.com##.fade_in._buddyRecommendationLayer.lyr_add_buddy
+serieson.naver.com##.app_banner_wrap
+serieson.naver.com##.lst_ad
+serieson.naver.com##[class^="HomeAside_aside_banner"]
+serieson.naver.com##[class^="HomeAsideStaticBanner_banner"]
+serieson.naver.com##[class^="HomeContainer_advertisement_banner"]
+serieson.naver.com##[class^="GlobalNavigationBar_membership_tooltip"]
+serieson.naver.com##.end_banner
+serieson.naver.com##.membership_tooltip
+serieson.naver.com##[class^="RecommendsPage_advertisement_section"]
+serieson.naver.com##[class^="RecommendsPage_banner"]
+serieson.naver.com##[class^="AppBanner_root"]
+serieson.naver.com##[class^="MembershipBanner"]
+serieson.naver.com##[class^="AppLauncher"]
 shopping.naver.com##.ad
 shopping.naver.com##.N\=a\:itm\.membanner
 shopping.naver.com##.nv-openmain
