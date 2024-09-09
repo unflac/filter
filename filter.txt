@@ -262,68 +262,6 @@ blog.naver.com##.header__layer-register > .header__layer-box
 blog.naver.com##.se-placesMap-bookmark-layer
 blog.naver.com###floating_inf
 booking.naver.com##.section_category
-booktoki157.com##.at-copyright
-booktoki157.com##.at-go
-booktoki157.com##.basic-banner
-booktoki157.com##.board-tail-banner
-booktoki157.com##.go-top
-booktoki157.com##.text-center.well
-booktoki157.com###hd_pop
-booktoki157.com###id_mbv
-booktoki157.com###main-banner-view
-booktoki158.com##.at-copyright
-booktoki158.com##.at-go
-booktoki158.com##.basic-banner
-booktoki158.com##.board-tail-banner
-booktoki158.com##.go-top
-booktoki158.com##.text-center.well
-booktoki158.com###hd_pop
-booktoki158.com###id_mbv
-booktoki158.com###main-banner-view
-booktoki159.com##.at-copyright
-booktoki159.com##.at-go
-booktoki159.com##.basic-banner
-booktoki159.com##.board-tail-banner
-booktoki159.com##.go-top
-booktoki159.com##.text-center.well
-booktoki159.com###hd_pop
-booktoki159.com###id_mbv
-booktoki159.com###main-banner-view
-booktoki160.com##.at-copyright
-booktoki160.com##.at-go
-booktoki160.com##.basic-banner
-booktoki160.com##.board-tail-banner
-booktoki160.com##.go-top
-booktoki160.com##.text-center.well
-booktoki160.com###hd_pop
-booktoki160.com###id_mbv
-booktoki160.com###main-banner-view
-booktoki214.com###content_wrapper > div:nth-of-type(2)
-booktoki214.com###id_mbv
-booktoki215.com###content_wrapper > div > .row-15.row
-booktoki215.com###content_wrapper > div:nth-of-type(2)
-booktoki291.com##.page-desc
-booktoki308.com##.at-copyright
-booktoki308.com##.at-go
-booktoki308.com##.basic-banner
-booktoki308.com##.board-tail-banner
-booktoki308.com##.go-top
-booktoki308.com##.page-desc
-booktoki308.com##.text-center.well
-booktoki308.com###hd_pop
-booktoki308.com###id_mbv
-booktoki308.com###main-banner-view
-booktoki309.com##.at-copyright
-booktoki309.com##.at-go
-booktoki309.com##.basic-banner
-booktoki309.com##.board-tail-banner
-booktoki309.com##.go-top
-booktoki309.com##.page-desc
-booktoki309.com##.text-center.well
-booktoki309.com###hd_pop
-booktoki309.com###id_mbv
-booktoki309.com###main-banner-view
-booktoki318.com###hd_pop
 brand.naver.com##.N\=a\:banner\.mem
 brand.naver.com##.N\=a\:banner2\.one
 brunch.co.kr##.wrap_article_footer_banner
@@ -877,43 +815,6 @@ m.stock.naver.com###ad_domestic_end
 m.weekly.khan.co.kr##.art_top_bn
 m.weekly.khan.co.kr##.wrap_bnr_promotion
 magsrv.com
-manatoki157.net##.at-copyright
-manatoki157.net##.at-go
-manatoki157.net##.basic-banner
-manatoki157.net##.board-tail-banner
-manatoki157.net##.go-top
-manatoki157.net##.text-center.well
-manatoki157.net###hd_pop
-manatoki157.net###id_mbv
-manatoki157.net###main-banner-view
-manatoki158.net##.at-copyright
-manatoki158.net##.at-go
-manatoki158.net##.basic-banner
-manatoki158.net##.board-tail-banner
-manatoki158.net##.go-top
-manatoki158.net##.text-center.well
-manatoki158.net###hd_pop
-manatoki158.net###id_mbv
-manatoki158.net###main-banner-view
-manatoki159.net##.at-copyright
-manatoki159.net##.at-go
-manatoki159.net##.basic-banner
-manatoki159.net##.board-tail-banner
-manatoki159.net##.go-top
-manatoki159.net##.text-center.well
-manatoki159.net###hd_pop
-manatoki159.net###id_mbv
-manatoki159.net###main-banner-view
-manatoki160.net##.at-copyright
-manatoki160.net##.at-go
-manatoki160.net##.basic-banner
-manatoki160.net##.board-tail-banner
-manatoki160.net##.go-top
-manatoki160.net##.text-center.well
-manatoki160.net###hd_pop
-manatoki160.net###id_mbv
-manatoki160.net###main-banner-view
-manatoki318.net###hd_pop
 manchestereveningnews.co.uk##.whats-hot
 manchestereveningnews.co.uk##section.related-articles-bg
 maniareport.com##.pcbview009
@@ -1247,44 +1148,6 @@ news.naver.com###channelBanner
 news.naver.com###right_big_banner_0
 news.naver.com##div.snb_banner
 news.ooooccoo.com
-newtoki157.com##.at-copyright
-newtoki157.com##.at-go
-newtoki157.com##.basic-banner
-newtoki157.com##.board-tail-banner
-newtoki157.com##.go-top
-newtoki157.com##.text-center.well
-newtoki157.com###hd_pop
-newtoki157.com###id_mbv
-newtoki157.com###main-banner-view
-newtoki158.com##.at-copyright
-newtoki158.com##.at-go
-newtoki158.com##.basic-banner
-newtoki158.com##.board-tail-banner
-newtoki158.com##.go-top
-newtoki158.com##.text-center.well
-newtoki158.com###hd_pop
-newtoki158.com###id_mbv
-newtoki158.com###main-banner-view
-newtoki159.com##.at-copyright
-newtoki159.com##.at-go
-newtoki159.com##.basic-banner
-newtoki159.com##.board-tail-banner
-newtoki159.com##.go-top
-newtoki159.com##.text-center.well
-newtoki159.com###hd_pop
-newtoki159.com###id_mbv
-newtoki159.com###main-banner-view
-newtoki160.com##.at-copyright
-newtoki160.com##.at-go
-newtoki160.com##.basic-banner
-newtoki160.com##.board-tail-banner
-newtoki160.com##.go-top
-newtoki160.com##.text-center.well
-newtoki160.com###hd_pop
-newtoki160.com###id_mbv
-newtoki160.com###main-banner-view
-newtoki318.com##.btn-lg.btn-info.btn
-newtoki318.com###hd_pop
 nexon.com##.gnbBanner
 nid.naver.com##.left_banner
 nid.naver.com##.notice
@@ -2033,3 +1896,867 @@ shopping.naver.com##[class^="._popupBanner_popup_banner"]
 shopping.naver.com##[class^="searchTab_tooltip"]
 stock.naver.com##[class^="NpayDownloadButton-module_article"]
 stock.naver.com##[class^="RewardGlad_article"]
+mybox.naver.com##.cmn_promotion_image
+ilyoseoul.co.kr##.banner_box
+lotteon.com##.tooltip-inner
+game.naver.com##[class^="recommend_live_container"]
+search.naver.com##.sp_intent_shop_foryou
+prod.danawa.com##.brand_banner
+chzzk.naver.com##[class^="toolbar_tooltip"]
+ytn.co.kr##.ad_300
+dexerto.com##.aspect-16\/9.w-full.mb-8.my-4
+dexerto.com##.mt-0.mb-4.bg-neutral-white.external\:dark\:bg-custom-ad-background.external\:bg-custom-ad-background.dark\:bg-neutral-grey-90.relative.lg\:min-h-\[103px\].min-h-\[264px\]
+dexerto.com##.h-\[33\%\].relative.items-center.flex-col.flex.w-full > .min-h-\[606px\].external\:dark\:bg-custom-ad-background.external\:bg-custom-ad-background.top-10.sticky.dark\:bg-neutral-grey-90.relative.items-center.justify-center.flex-col.flex.bg-neutral-grey-4.py-4.w-full
+dexerto.com##.h-\[67\%\].relative.items-center.flex-col.flex.w-full > .min-h-\[606px\].external\:dark\:bg-custom-ad-background.external\:bg-custom-ad-background.top-10.sticky.dark\:bg-neutral-grey-90.relative.items-center.justify-center.flex-col.flex.bg-neutral-grey-4.py-4.w-full
+dexerto.com##.h-full.relative.items-center.flex-col.flex.w-full > .min-h-\[606px\].external\:dark\:bg-custom-ad-background.external\:bg-custom-ad-background.top-10.sticky.dark\:bg-neutral-grey-90.relative.items-center.justify-center.flex-col.flex.bg-neutral-grey-4.py-4.w-full
+dexerto.com##.AdhesiveAd_min-size-iframe-desktop__fqGwV.md\:h-\[90px\].md\:flex.md\:overflow-hidden.min-h-\[56px\].bg-neutral-grey-30\/20.w-full.z-10.bottom-0.fixed.items-center.justify-center.flex.Ad_ad__cqmjz
+checkout.coupang.com##.bundle-info__fresh-bag-tooltip
+nid.naver.com##.hide_banner
+nid.naver.com##.remind_box
+hankookilbo.com##.end-top-ad-wrap
+hankookilbo.com##.float-bot-ad-box
+hankookilbo.com##.float-left-ad-box
+sports.naver.com##[class^="SideBanner_comp_side_banner"]
+entertain.naver.com##[class^="RecommendContentPopup_comp_recommend_content_popup"]
+news.naver.com###_MODAL_LAYER_FOR_UNSUBSCRIBER_PROMOTION_JOURNALIST
+ufaexpert.com
+creative.xxxvjmp.com
+s1.kbj.so##.masthead-banner
+s1.kbj.so##.site-footer
+guccihide.store##.jw-logo
+www.mi.com###truste-consent-track
+syndication.realsrv.com
+realsrv.com
+mc7clurd09pla4nrtat7ion.com
+n.news.naver.com###_MODAL_LAYER_FOR_UNSUBSCRIBER_PROMOTION_SERIES
+tv.naver.com##[class^="ArticleSection_multi_like_area"]
+coupangplay.com##.LeagueDetailFeed_teamInfo__pNL9h > div
+youtube.com###logo
+tentv77.com##.content_widget_bar
+tentv77.com##.relative
+tentv77.com##.menu
+tentv77.com###header
+tentv77.com###bottom
+tentv77.com##.move_target
+cool114.com##.show.go-top
+pastedownload.com###share-buttons
+pastedownload.com##.text-center.alert-dismissible.alert-info.alert
+pastedownload.com##.faq__content > .text-center
+pastedownload.com###changelog
+pastedownload.com##.footer
+pastedownload.com##p.text-left:nth-of-type(5)
+pastedownload.com##p.text-left:nth-of-type(4)
+pastedownload.com##.description.text-center.mr-auto.ml-auto.col-md-8
+pastedownload.com##p.text-left.description
+pastedownload.com##.info-title
+pastedownload.com##.video-links.col-md-8 > p > font > font
+pastedownload.com##.tebal.blink
+spotvnews.co.kr##.ad-template
+spotvnews.co.kr##.banner_box
+pressian.com##[src="about:blank"]
+youtube.com##.ytp-suggested-action-badge-expanded
+newspim.com###news-contents div
+spotvnews.co.kr##.view-banner
+smsonline.cloud###tripple_banner_container
+u9a9.org##.adclick
+discogs.com##.lngtd-ad-wrapper-banner
+discogs.com##.ad_container
+discogs.com##.ad_home
+archive.org###donato
+82maott.com###a3
+82maott.com###a2
+82maott.com###a1
+82maott.com##.need_grid_img
+ternity.net##.col-md-12 > .da
+ternity.net##.container > .da
+ternity.net##.panel-body > .da
+82maott.com##.needMid
+ternity.net###playerdavLayer
+||ternity.net/static/images/load.jpg$image
+pornlulu.com##div.text-center.col-xl-4.col-md-6.col-12
+pornlulu.com##div.links.row
+pornlulu.com##.p-1.row
+ternity.net##.pager
+shemale6.com##.▭_scrollable-doc
+shemale6.com##.sh-advertising
+bestialitylovers.net##body > iframe
+newtoki460.com##.at-copyright
+newtoki460.com##.at-go
+newtoki460.com##.basic-banner
+newtoki460.com##.board-tail-banner
+newtoki460.com##.btn-lg.btn-info.btn
+newtoki460.com##.go-top
+newtoki460.com##.page-desc
+newtoki460.com##.text-center.well
+newtoki460.com###content_wrapper > div > .row-15.row
+newtoki460.com###content_wrapper > div:nth-of-type(2)
+newtoki460.com###hd_pop
+newtoki460.com###id_mbv
+newtoki460.com###main-banner-view
+newtoki461.com##.at-copyright
+newtoki461.com##.at-go
+newtoki461.com##.basic-banner
+newtoki461.com##.board-tail-banner
+newtoki461.com##.btn-lg.btn-info.btn
+newtoki461.com##.go-top
+newtoki461.com##.page-desc
+newtoki461.com##.text-center.well
+newtoki461.com###content_wrapper > div > .row-15.row
+newtoki461.com###content_wrapper > div:nth-of-type(2)
+newtoki461.com###hd_pop
+newtoki461.com###id_mbv
+newtoki461.com###main-banner-view
+newtoki462.com##.at-copyright
+newtoki462.com##.at-go
+newtoki462.com##.basic-banner
+newtoki462.com##.board-tail-banner
+newtoki462.com##.btn-lg.btn-info.btn
+newtoki462.com##.go-top
+newtoki462.com##.page-desc
+newtoki462.com##.text-center.well
+newtoki462.com###content_wrapper > div > .row-15.row
+newtoki462.com###content_wrapper > div:nth-of-type(2)
+newtoki462.com###hd_pop
+newtoki462.com###id_mbv
+newtoki462.com###main-banner-view
+newtoki463.com##.at-copyright
+newtoki463.com##.at-go
+newtoki463.com##.basic-banner
+newtoki463.com##.board-tail-banner
+newtoki463.com##.btn-lg.btn-info.btn
+newtoki463.com##.go-top
+newtoki463.com##.page-desc
+newtoki463.com##.text-center.well
+newtoki463.com###content_wrapper > div > .row-15.row
+newtoki463.com###content_wrapper > div:nth-of-type(2)
+newtoki463.com###hd_pop
+newtoki463.com###id_mbv
+newtoki463.com###main-banner-view
+newtoki464.com##.at-copyright
+newtoki464.com##.at-go
+newtoki464.com##.basic-banner
+newtoki464.com##.board-tail-banner
+newtoki464.com##.btn-lg.btn-info.btn
+newtoki464.com##.go-top
+newtoki464.com##.page-desc
+newtoki464.com##.text-center.well
+newtoki464.com###content_wrapper > div > .row-15.row
+newtoki464.com###content_wrapper > div:nth-of-type(2)
+newtoki464.com###hd_pop
+newtoki464.com###id_mbv
+newtoki464.com###main-banner-view
+newtoki465.com##.at-copyright
+newtoki465.com##.at-go
+newtoki465.com##.basic-banner
+newtoki465.com##.board-tail-banner
+newtoki465.com##.btn-lg.btn-info.btn
+newtoki465.com##.go-top
+newtoki465.com##.page-desc
+newtoki465.com##.text-center.well
+newtoki465.com###content_wrapper > div > .row-15.row
+newtoki465.com###content_wrapper > div:nth-of-type(2)
+newtoki465.com###hd_pop
+newtoki465.com###id_mbv
+newtoki465.com###main-banner-view
+newtoki466.com##.at-copyright
+newtoki466.com##.at-go
+newtoki466.com##.basic-banner
+newtoki466.com##.board-tail-banner
+newtoki466.com##.btn-lg.btn-info.btn
+newtoki466.com##.go-top
+newtoki466.com##.page-desc
+newtoki466.com##.text-center.well
+newtoki466.com###content_wrapper > div > .row-15.row
+newtoki466.com###content_wrapper > div:nth-of-type(2)
+newtoki466.com###hd_pop
+newtoki466.com###id_mbv
+newtoki466.com###main-banner-view
+newtoki467.com##.at-copyright
+newtoki467.com##.at-go
+newtoki467.com##.basic-banner
+newtoki467.com##.board-tail-banner
+newtoki467.com##.btn-lg.btn-info.btn
+newtoki467.com##.go-top
+newtoki467.com##.page-desc
+newtoki467.com##.text-center.well
+newtoki467.com###content_wrapper > div > .row-15.row
+newtoki467.com###content_wrapper > div:nth-of-type(2)
+newtoki467.com###hd_pop
+newtoki467.com###id_mbv
+newtoki467.com###main-banner-view
+newtoki468.com##.at-copyright
+newtoki468.com##.at-go
+newtoki468.com##.basic-banner
+newtoki468.com##.board-tail-banner
+newtoki468.com##.btn-lg.btn-info.btn
+newtoki468.com##.go-top
+newtoki468.com##.page-desc
+newtoki468.com##.text-center.well
+newtoki468.com###content_wrapper > div > .row-15.row
+newtoki468.com###content_wrapper > div:nth-of-type(2)
+newtoki468.com###hd_pop
+newtoki468.com###id_mbv
+newtoki468.com###main-banner-view
+newtoki469.com##.at-copyright
+newtoki469.com##.at-go
+newtoki469.com##.basic-banner
+newtoki469.com##.board-tail-banner
+newtoki469.com##.btn-lg.btn-info.btn
+newtoki469.com##.go-top
+newtoki469.com##.page-desc
+newtoki469.com##.text-center.well
+newtoki469.com###content_wrapper > div > .row-15.row
+newtoki469.com###content_wrapper > div:nth-of-type(2)
+newtoki469.com###hd_pop
+newtoki469.com###id_mbv
+newtoki469.com###main-banner-view
+newtoki470.com##.at-copyright
+newtoki470.com##.at-go
+newtoki470.com##.basic-banner
+newtoki470.com##.board-tail-banner
+newtoki470.com##.btn-lg.btn-info.btn
+newtoki470.com##.go-top
+newtoki470.com##.page-desc
+newtoki470.com##.text-center.well
+newtoki470.com###content_wrapper > div > .row-15.row
+newtoki470.com###content_wrapper > div:nth-of-type(2)
+newtoki470.com###hd_pop
+newtoki470.com###id_mbv
+newtoki470.com###main-banner-view
+newtoki471.com##.at-copyright
+newtoki471.com##.at-go
+newtoki471.com##.basic-banner
+newtoki471.com##.board-tail-banner
+newtoki471.com##.btn-lg.btn-info.btn
+newtoki471.com##.go-top
+newtoki471.com##.page-desc
+newtoki471.com##.text-center.well
+newtoki471.com###content_wrapper > div > .row-15.row
+newtoki471.com###content_wrapper > div:nth-of-type(2)
+newtoki471.com###hd_pop
+newtoki471.com###id_mbv
+newtoki471.com###main-banner-view
+newtoki472.com##.at-copyright
+newtoki472.com##.at-go
+newtoki472.com##.basic-banner
+newtoki472.com##.board-tail-banner
+newtoki472.com##.btn-lg.btn-info.btn
+newtoki472.com##.go-top
+newtoki472.com##.page-desc
+newtoki472.com##.text-center.well
+newtoki472.com###content_wrapper > div > .row-15.row
+newtoki472.com###content_wrapper > div:nth-of-type(2)
+newtoki472.com###hd_pop
+newtoki472.com###id_mbv
+newtoki472.com###main-banner-view
+newtoki473.com##.at-copyright
+newtoki473.com##.at-go
+newtoki473.com##.basic-banner
+newtoki473.com##.board-tail-banner
+newtoki473.com##.btn-lg.btn-info.btn
+newtoki473.com##.go-top
+newtoki473.com##.page-desc
+newtoki473.com##.text-center.well
+newtoki473.com###content_wrapper > div > .row-15.row
+newtoki473.com###content_wrapper > div:nth-of-type(2)
+newtoki473.com###hd_pop
+newtoki473.com###id_mbv
+newtoki473.com###main-banner-view
+newtoki474.com##.at-copyright
+newtoki474.com##.at-go
+newtoki474.com##.basic-banner
+newtoki474.com##.board-tail-banner
+newtoki474.com##.btn-lg.btn-info.btn
+newtoki474.com##.go-top
+newtoki474.com##.page-desc
+newtoki474.com##.text-center.well
+newtoki474.com###content_wrapper > div > .row-15.row
+newtoki474.com###content_wrapper > div:nth-of-type(2)
+newtoki474.com###hd_pop
+newtoki474.com###id_mbv
+newtoki474.com###main-banner-view
+newtoki475.com##.at-copyright
+newtoki475.com##.at-go
+newtoki475.com##.basic-banner
+newtoki475.com##.board-tail-banner
+newtoki475.com##.btn-lg.btn-info.btn
+newtoki475.com##.go-top
+newtoki475.com##.page-desc
+newtoki475.com##.text-center.well
+newtoki475.com###content_wrapper > div > .row-15.row
+newtoki475.com###content_wrapper > div:nth-of-type(2)
+newtoki475.com###hd_pop
+newtoki475.com###id_mbv
+newtoki475.com###main-banner-view
+newtoki476.com##.at-copyright
+newtoki476.com##.at-go
+newtoki476.com##.basic-banner
+newtoki476.com##.board-tail-banner
+newtoki476.com##.btn-lg.btn-info.btn
+newtoki476.com##.go-top
+newtoki476.com##.page-desc
+newtoki476.com##.text-center.well
+newtoki476.com###content_wrapper > div > .row-15.row
+newtoki476.com###content_wrapper > div:nth-of-type(2)
+newtoki476.com###hd_pop
+newtoki476.com###id_mbv
+newtoki476.com###main-banner-view
+newtoki477.com##.at-copyright
+newtoki477.com##.at-go
+newtoki477.com##.basic-banner
+newtoki477.com##.board-tail-banner
+newtoki477.com##.btn-lg.btn-info.btn
+newtoki477.com##.go-top
+newtoki477.com##.page-desc
+newtoki477.com##.text-center.well
+newtoki477.com###content_wrapper > div > .row-15.row
+newtoki477.com###content_wrapper > div:nth-of-type(2)
+newtoki477.com###hd_pop
+newtoki477.com###id_mbv
+newtoki477.com###main-banner-view
+newtoki478.com##.at-copyright
+newtoki478.com##.at-go
+newtoki478.com##.basic-banner
+newtoki478.com##.board-tail-banner
+newtoki478.com##.btn-lg.btn-info.btn
+newtoki478.com##.go-top
+newtoki478.com##.page-desc
+newtoki478.com##.text-center.well
+newtoki478.com###content_wrapper > div > .row-15.row
+newtoki478.com###content_wrapper > div:nth-of-type(2)
+newtoki478.com###hd_pop
+newtoki478.com###id_mbv
+newtoki478.com###main-banner-view
+newtoki479.com##.at-copyright
+newtoki479.com##.at-go
+newtoki479.com##.basic-banner
+newtoki479.com##.board-tail-banner
+newtoki479.com##.btn-lg.btn-info.btn
+newtoki479.com##.go-top
+newtoki479.com##.page-desc
+newtoki479.com##.text-center.well
+newtoki479.com###content_wrapper > div > .row-15.row
+newtoki479.com###content_wrapper > div:nth-of-type(2)
+newtoki479.com###hd_pop
+newtoki479.com###id_mbv
+newtoki479.com###main-banner-view
+manatoki460.com##.at-copyright
+manatoki460.com##.at-go
+manatoki460.com##.basic-banner
+manatoki460.com##.board-tail-banner
+manatoki460.com##.btn-lg.btn-info.btn
+manatoki460.com##.go-top
+manatoki460.com##.page-desc
+manatoki460.com##.text-center.well
+manatoki460.com###content_wrapper > div > .row-15.row
+manatoki460.com###content_wrapper > div:nth-of-type(2)
+manatoki460.com###hd_pop
+manatoki460.com###id_mbv
+manatoki460.com###main-banner-view
+manatoki461.com##.at-copyright
+manatoki461.com##.at-go
+manatoki461.com##.basic-banner
+manatoki461.com##.board-tail-banner
+manatoki461.com##.btn-lg.btn-info.btn
+manatoki461.com##.go-top
+manatoki461.com##.page-desc
+manatoki461.com##.text-center.well
+manatoki461.com###content_wrapper > div > .row-15.row
+manatoki461.com###content_wrapper > div:nth-of-type(2)
+manatoki461.com###hd_pop
+manatoki461.com###id_mbv
+manatoki461.com###main-banner-view
+manatoki462.com##.at-copyright
+manatoki462.com##.at-go
+manatoki462.com##.basic-banner
+manatoki462.com##.board-tail-banner
+manatoki462.com##.btn-lg.btn-info.btn
+manatoki462.com##.go-top
+manatoki462.com##.page-desc
+manatoki462.com##.text-center.well
+manatoki462.com###content_wrapper > div > .row-15.row
+manatoki462.com###content_wrapper > div:nth-of-type(2)
+manatoki462.com###hd_pop
+manatoki462.com###id_mbv
+manatoki462.com###main-banner-view
+manatoki463.com##.at-copyright
+manatoki463.com##.at-go
+manatoki463.com##.basic-banner
+manatoki463.com##.board-tail-banner
+manatoki463.com##.btn-lg.btn-info.btn
+manatoki463.com##.go-top
+manatoki463.com##.page-desc
+manatoki463.com##.text-center.well
+manatoki463.com###content_wrapper > div > .row-15.row
+manatoki463.com###content_wrapper > div:nth-of-type(2)
+manatoki463.com###hd_pop
+manatoki463.com###id_mbv
+manatoki463.com###main-banner-view
+manatoki464.com##.at-copyright
+manatoki464.com##.at-go
+manatoki464.com##.basic-banner
+manatoki464.com##.board-tail-banner
+manatoki464.com##.btn-lg.btn-info.btn
+manatoki464.com##.go-top
+manatoki464.com##.page-desc
+manatoki464.com##.text-center.well
+manatoki464.com###content_wrapper > div > .row-15.row
+manatoki464.com###content_wrapper > div:nth-of-type(2)
+manatoki464.com###hd_pop
+manatoki464.com###id_mbv
+manatoki464.com###main-banner-view
+manatoki465.com##.at-copyright
+manatoki465.com##.at-go
+manatoki465.com##.basic-banner
+manatoki465.com##.board-tail-banner
+manatoki465.com##.btn-lg.btn-info.btn
+manatoki465.com##.go-top
+manatoki465.com##.page-desc
+manatoki465.com##.text-center.well
+manatoki465.com###content_wrapper > div > .row-15.row
+manatoki465.com###content_wrapper > div:nth-of-type(2)
+manatoki465.com###hd_pop
+manatoki465.com###id_mbv
+manatoki465.com###main-banner-view
+manatoki466.com##.at-copyright
+manatoki466.com##.at-go
+manatoki466.com##.basic-banner
+manatoki466.com##.board-tail-banner
+manatoki466.com##.btn-lg.btn-info.btn
+manatoki466.com##.go-top
+manatoki466.com##.page-desc
+manatoki466.com##.text-center.well
+manatoki466.com###content_wrapper > div > .row-15.row
+manatoki466.com###content_wrapper > div:nth-of-type(2)
+manatoki466.com###hd_pop
+manatoki466.com###id_mbv
+manatoki466.com###main-banner-view
+manatoki467.com##.at-copyright
+manatoki467.com##.at-go
+manatoki467.com##.basic-banner
+manatoki467.com##.board-tail-banner
+manatoki467.com##.btn-lg.btn-info.btn
+manatoki467.com##.go-top
+manatoki467.com##.page-desc
+manatoki467.com##.text-center.well
+manatoki467.com###content_wrapper > div > .row-15.row
+manatoki467.com###content_wrapper > div:nth-of-type(2)
+manatoki467.com###hd_pop
+manatoki467.com###id_mbv
+manatoki467.com###main-banner-view
+manatoki468.com##.at-copyright
+manatoki468.com##.at-go
+manatoki468.com##.basic-banner
+manatoki468.com##.board-tail-banner
+manatoki468.com##.btn-lg.btn-info.btn
+manatoki468.com##.go-top
+manatoki468.com##.page-desc
+manatoki468.com##.text-center.well
+manatoki468.com###content_wrapper > div > .row-15.row
+manatoki468.com###content_wrapper > div:nth-of-type(2)
+manatoki468.com###hd_pop
+manatoki468.com###id_mbv
+manatoki468.com###main-banner-view
+manatoki469.com##.at-copyright
+manatoki469.com##.at-go
+manatoki469.com##.basic-banner
+manatoki469.com##.board-tail-banner
+manatoki469.com##.btn-lg.btn-info.btn
+manatoki469.com##.go-top
+manatoki469.com##.page-desc
+manatoki469.com##.text-center.well
+manatoki469.com###content_wrapper > div > .row-15.row
+manatoki469.com###content_wrapper > div:nth-of-type(2)
+manatoki469.com###hd_pop
+manatoki469.com###id_mbv
+manatoki469.com###main-banner-view
+manatoki470.com##.at-copyright
+manatoki470.com##.at-go
+manatoki470.com##.basic-banner
+manatoki470.com##.board-tail-banner
+manatoki470.com##.btn-lg.btn-info.btn
+manatoki470.com##.go-top
+manatoki470.com##.page-desc
+manatoki470.com##.text-center.well
+manatoki470.com###content_wrapper > div > .row-15.row
+manatoki470.com###content_wrapper > div:nth-of-type(2)
+manatoki470.com###hd_pop
+manatoki470.com###id_mbv
+manatoki470.com###main-banner-view
+manatoki471.com##.at-copyright
+manatoki471.com##.at-go
+manatoki471.com##.basic-banner
+manatoki471.com##.board-tail-banner
+manatoki471.com##.btn-lg.btn-info.btn
+manatoki471.com##.go-top
+manatoki471.com##.page-desc
+manatoki471.com##.text-center.well
+manatoki471.com###content_wrapper > div > .row-15.row
+manatoki471.com###content_wrapper > div:nth-of-type(2)
+manatoki471.com###hd_pop
+manatoki471.com###id_mbv
+manatoki471.com###main-banner-view
+manatoki472.com##.at-copyright
+manatoki472.com##.at-go
+manatoki472.com##.basic-banner
+manatoki472.com##.board-tail-banner
+manatoki472.com##.btn-lg.btn-info.btn
+manatoki472.com##.go-top
+manatoki472.com##.page-desc
+manatoki472.com##.text-center.well
+manatoki472.com###content_wrapper > div > .row-15.row
+manatoki472.com###content_wrapper > div:nth-of-type(2)
+manatoki472.com###hd_pop
+manatoki472.com###id_mbv
+manatoki472.com###main-banner-view
+manatoki473.com##.at-copyright
+manatoki473.com##.at-go
+manatoki473.com##.basic-banner
+manatoki473.com##.board-tail-banner
+manatoki473.com##.btn-lg.btn-info.btn
+manatoki473.com##.go-top
+manatoki473.com##.page-desc
+manatoki473.com##.text-center.well
+manatoki473.com###content_wrapper > div > .row-15.row
+manatoki473.com###content_wrapper > div:nth-of-type(2)
+manatoki473.com###hd_pop
+manatoki473.com###id_mbv
+manatoki473.com###main-banner-view
+manatoki474.com##.at-copyright
+manatoki474.com##.at-go
+manatoki474.com##.basic-banner
+manatoki474.com##.board-tail-banner
+manatoki474.com##.btn-lg.btn-info.btn
+manatoki474.com##.go-top
+manatoki474.com##.page-desc
+manatoki474.com##.text-center.well
+manatoki474.com###content_wrapper > div > .row-15.row
+manatoki474.com###content_wrapper > div:nth-of-type(2)
+manatoki474.com###hd_pop
+manatoki474.com###id_mbv
+manatoki474.com###main-banner-view
+manatoki475.com##.at-copyright
+manatoki475.com##.at-go
+manatoki475.com##.basic-banner
+manatoki475.com##.board-tail-banner
+manatoki475.com##.btn-lg.btn-info.btn
+manatoki475.com##.go-top
+manatoki475.com##.page-desc
+manatoki475.com##.text-center.well
+manatoki475.com###content_wrapper > div > .row-15.row
+manatoki475.com###content_wrapper > div:nth-of-type(2)
+manatoki475.com###hd_pop
+manatoki475.com###id_mbv
+manatoki475.com###main-banner-view
+manatoki476.com##.at-copyright
+manatoki476.com##.at-go
+manatoki476.com##.basic-banner
+manatoki476.com##.board-tail-banner
+manatoki476.com##.btn-lg.btn-info.btn
+manatoki476.com##.go-top
+manatoki476.com##.page-desc
+manatoki476.com##.text-center.well
+manatoki476.com###content_wrapper > div > .row-15.row
+manatoki476.com###content_wrapper > div:nth-of-type(2)
+manatoki476.com###hd_pop
+manatoki476.com###id_mbv
+manatoki476.com###main-banner-view
+manatoki477.com##.at-copyright
+manatoki477.com##.at-go
+manatoki477.com##.basic-banner
+manatoki477.com##.board-tail-banner
+manatoki477.com##.btn-lg.btn-info.btn
+manatoki477.com##.go-top
+manatoki477.com##.page-desc
+manatoki477.com##.text-center.well
+manatoki477.com###content_wrapper > div > .row-15.row
+manatoki477.com###content_wrapper > div:nth-of-type(2)
+manatoki477.com###hd_pop
+manatoki477.com###id_mbv
+manatoki477.com###main-banner-view
+manatoki478.com##.at-copyright
+manatoki478.com##.at-go
+manatoki478.com##.basic-banner
+manatoki478.com##.board-tail-banner
+manatoki478.com##.btn-lg.btn-info.btn
+manatoki478.com##.go-top
+manatoki478.com##.page-desc
+manatoki478.com##.text-center.well
+manatoki478.com###content_wrapper > div > .row-15.row
+manatoki478.com###content_wrapper > div:nth-of-type(2)
+manatoki478.com###hd_pop
+manatoki478.com###id_mbv
+manatoki478.com###main-banner-view
+manatoki479.com##.at-copyright
+manatoki479.com##.at-go
+manatoki479.com##.basic-banner
+manatoki479.com##.board-tail-banner
+manatoki479.com##.btn-lg.btn-info.btn
+manatoki479.com##.go-top
+manatoki479.com##.page-desc
+manatoki479.com##.text-center.well
+manatoki479.com###content_wrapper > div > .row-15.row
+manatoki479.com###content_wrapper > div:nth-of-type(2)
+manatoki479.com###hd_pop
+manatoki479.com###id_mbv
+manatoki479.com###main-banner-view
+booktoki460.com##.at-copyright
+booktoki460.com##.at-go
+booktoki460.com##.basic-banner
+booktoki460.com##.board-tail-banner
+booktoki460.com##.btn-lg.btn-info.btn
+booktoki460.com##.go-top
+booktoki460.com##.page-desc
+booktoki460.com##.text-center.well
+booktoki460.com###content_wrapper > div > .row-15.row
+booktoki460.com###content_wrapper > div:nth-of-type(2)
+booktoki460.com###hd_pop
+booktoki460.com###id_mbv
+booktoki460.com###main-banner-view
+booktoki461.com##.at-copyright
+booktoki461.com##.at-go
+booktoki461.com##.basic-banner
+booktoki461.com##.board-tail-banner
+booktoki461.com##.btn-lg.btn-info.btn
+booktoki461.com##.go-top
+booktoki461.com##.page-desc
+booktoki461.com##.text-center.well
+booktoki461.com###content_wrapper > div > .row-15.row
+booktoki461.com###content_wrapper > div:nth-of-type(2)
+booktoki461.com###hd_pop
+booktoki461.com###id_mbv
+booktoki461.com###main-banner-view
+booktoki462.com##.at-copyright
+booktoki462.com##.at-go
+booktoki462.com##.basic-banner
+booktoki462.com##.board-tail-banner
+booktoki462.com##.btn-lg.btn-info.btn
+booktoki462.com##.go-top
+booktoki462.com##.page-desc
+booktoki462.com##.text-center.well
+booktoki462.com###content_wrapper > div > .row-15.row
+booktoki462.com###content_wrapper > div:nth-of-type(2)
+booktoki462.com###hd_pop
+booktoki462.com###id_mbv
+booktoki462.com###main-banner-view
+booktoki463.com##.at-copyright
+booktoki463.com##.at-go
+booktoki463.com##.basic-banner
+booktoki463.com##.board-tail-banner
+booktoki463.com##.btn-lg.btn-info.btn
+booktoki463.com##.go-top
+booktoki463.com##.page-desc
+booktoki463.com##.text-center.well
+booktoki463.com###content_wrapper > div > .row-15.row
+booktoki463.com###content_wrapper > div:nth-of-type(2)
+booktoki463.com###hd_pop
+booktoki463.com###id_mbv
+booktoki463.com###main-banner-view
+booktoki464.com##.at-copyright
+booktoki464.com##.at-go
+booktoki464.com##.basic-banner
+booktoki464.com##.board-tail-banner
+booktoki464.com##.btn-lg.btn-info.btn
+booktoki464.com##.go-top
+booktoki464.com##.page-desc
+booktoki464.com##.text-center.well
+booktoki464.com###content_wrapper > div > .row-15.row
+booktoki464.com###content_wrapper > div:nth-of-type(2)
+booktoki464.com###hd_pop
+booktoki464.com###id_mbv
+booktoki464.com###main-banner-view
+booktoki465.com##.at-copyright
+booktoki465.com##.at-go
+booktoki465.com##.basic-banner
+booktoki465.com##.board-tail-banner
+booktoki465.com##.btn-lg.btn-info.btn
+booktoki465.com##.go-top
+booktoki465.com##.page-desc
+booktoki465.com##.text-center.well
+booktoki465.com###content_wrapper > div > .row-15.row
+booktoki465.com###content_wrapper > div:nth-of-type(2)
+booktoki465.com###hd_pop
+booktoki465.com###id_mbv
+booktoki465.com###main-banner-view
+booktoki466.com##.at-copyright
+booktoki466.com##.at-go
+booktoki466.com##.basic-banner
+booktoki466.com##.board-tail-banner
+booktoki466.com##.btn-lg.btn-info.btn
+booktoki466.com##.go-top
+booktoki466.com##.page-desc
+booktoki466.com##.text-center.well
+booktoki466.com###content_wrapper > div > .row-15.row
+booktoki466.com###content_wrapper > div:nth-of-type(2)
+booktoki466.com###hd_pop
+booktoki466.com###id_mbv
+booktoki466.com###main-banner-view
+booktoki467.com##.at-copyright
+booktoki467.com##.at-go
+booktoki467.com##.basic-banner
+booktoki467.com##.board-tail-banner
+booktoki467.com##.btn-lg.btn-info.btn
+booktoki467.com##.go-top
+booktoki467.com##.page-desc
+booktoki467.com##.text-center.well
+booktoki467.com###content_wrapper > div > .row-15.row
+booktoki467.com###content_wrapper > div:nth-of-type(2)
+booktoki467.com###hd_pop
+booktoki467.com###id_mbv
+booktoki467.com###main-banner-view
+booktoki468.com##.at-copyright
+booktoki468.com##.at-go
+booktoki468.com##.basic-banner
+booktoki468.com##.board-tail-banner
+booktoki468.com##.btn-lg.btn-info.btn
+booktoki468.com##.go-top
+booktoki468.com##.page-desc
+booktoki468.com##.text-center.well
+booktoki468.com###content_wrapper > div > .row-15.row
+booktoki468.com###content_wrapper > div:nth-of-type(2)
+booktoki468.com###hd_pop
+booktoki468.com###id_mbv
+booktoki468.com###main-banner-view
+booktoki469.com##.at-copyright
+booktoki469.com##.at-go
+booktoki469.com##.basic-banner
+booktoki469.com##.board-tail-banner
+booktoki469.com##.btn-lg.btn-info.btn
+booktoki469.com##.go-top
+booktoki469.com##.page-desc
+booktoki469.com##.text-center.well
+booktoki469.com###content_wrapper > div > .row-15.row
+booktoki469.com###content_wrapper > div:nth-of-type(2)
+booktoki469.com###hd_pop
+booktoki469.com###id_mbv
+booktoki469.com###main-banner-view
+booktoki470.com##.at-copyright
+booktoki470.com##.at-go
+booktoki470.com##.basic-banner
+booktoki470.com##.board-tail-banner
+booktoki470.com##.btn-lg.btn-info.btn
+booktoki470.com##.go-top
+booktoki470.com##.page-desc
+booktoki470.com##.text-center.well
+booktoki470.com###content_wrapper > div > .row-15.row
+booktoki470.com###content_wrapper > div:nth-of-type(2)
+booktoki470.com###hd_pop
+booktoki470.com###id_mbv
+booktoki470.com###main-banner-view
+booktoki471.com##.at-copyright
+booktoki471.com##.at-go
+booktoki471.com##.basic-banner
+booktoki471.com##.board-tail-banner
+booktoki471.com##.btn-lg.btn-info.btn
+booktoki471.com##.go-top
+booktoki471.com##.page-desc
+booktoki471.com##.text-center.well
+booktoki471.com###content_wrapper > div > .row-15.row
+booktoki471.com###content_wrapper > div:nth-of-type(2)
+booktoki471.com###hd_pop
+booktoki471.com###id_mbv
+booktoki471.com###main-banner-view
+booktoki472.com##.at-copyright
+booktoki472.com##.at-go
+booktoki472.com##.basic-banner
+booktoki472.com##.board-tail-banner
+booktoki472.com##.btn-lg.btn-info.btn
+booktoki472.com##.go-top
+booktoki472.com##.page-desc
+booktoki472.com##.text-center.well
+booktoki472.com###content_wrapper > div > .row-15.row
+booktoki472.com###content_wrapper > div:nth-of-type(2)
+booktoki472.com###hd_pop
+booktoki472.com###id_mbv
+booktoki472.com###main-banner-view
+booktoki473.com##.at-copyright
+booktoki473.com##.at-go
+booktoki473.com##.basic-banner
+booktoki473.com##.board-tail-banner
+booktoki473.com##.btn-lg.btn-info.btn
+booktoki473.com##.go-top
+booktoki473.com##.page-desc
+booktoki473.com##.text-center.well
+booktoki473.com###content_wrapper > div > .row-15.row
+booktoki473.com###content_wrapper > div:nth-of-type(2)
+booktoki473.com###hd_pop
+booktoki473.com###id_mbv
+booktoki473.com###main-banner-view
+booktoki474.com##.at-copyright
+booktoki474.com##.at-go
+booktoki474.com##.basic-banner
+booktoki474.com##.board-tail-banner
+booktoki474.com##.btn-lg.btn-info.btn
+booktoki474.com##.go-top
+booktoki474.com##.page-desc
+booktoki474.com##.text-center.well
+booktoki474.com###content_wrapper > div > .row-15.row
+booktoki474.com###content_wrapper > div:nth-of-type(2)
+booktoki474.com###hd_pop
+booktoki474.com###id_mbv
+booktoki474.com###main-banner-view
+booktoki475.com##.at-copyright
+booktoki475.com##.at-go
+booktoki475.com##.basic-banner
+booktoki475.com##.board-tail-banner
+booktoki475.com##.btn-lg.btn-info.btn
+booktoki475.com##.go-top
+booktoki475.com##.page-desc
+booktoki475.com##.text-center.well
+booktoki475.com###content_wrapper > div > .row-15.row
+booktoki475.com###content_wrapper > div:nth-of-type(2)
+booktoki475.com###hd_pop
+booktoki475.com###id_mbv
+booktoki475.com###main-banner-view
+booktoki476.com##.at-copyright
+booktoki476.com##.at-go
+booktoki476.com##.basic-banner
+booktoki476.com##.board-tail-banner
+booktoki476.com##.btn-lg.btn-info.btn
+booktoki476.com##.go-top
+booktoki476.com##.page-desc
+booktoki476.com##.text-center.well
+booktoki476.com###content_wrapper > div > .row-15.row
+booktoki476.com###content_wrapper > div:nth-of-type(2)
+booktoki476.com###hd_pop
+booktoki476.com###id_mbv
+booktoki476.com###main-banner-view
+booktoki477.com##.at-copyright
+booktoki477.com##.at-go
+booktoki477.com##.basic-banner
+booktoki477.com##.board-tail-banner
+booktoki477.com##.btn-lg.btn-info.btn
+booktoki477.com##.go-top
+booktoki477.com##.page-desc
+booktoki477.com##.text-center.well
+booktoki477.com###content_wrapper > div > .row-15.row
+booktoki477.com###content_wrapper > div:nth-of-type(2)
+booktoki477.com###hd_pop
+booktoki477.com###id_mbv
+booktoki477.com###main-banner-view
+booktoki478.com##.at-copyright
+booktoki478.com##.at-go
+booktoki478.com##.basic-banner
+booktoki478.com##.board-tail-banner
+booktoki478.com##.btn-lg.btn-info.btn
+booktoki478.com##.go-top
+booktoki478.com##.page-desc
+booktoki478.com##.text-center.well
+booktoki478.com###content_wrapper > div > .row-15.row
+booktoki478.com###content_wrapper > div:nth-of-type(2)
+booktoki478.com###hd_pop
+booktoki478.com###id_mbv
+booktoki478.com###main-banner-view
+booktoki479.com##.at-copyright
+booktoki479.com##.at-go
+booktoki479.com##.basic-banner
+booktoki479.com##.board-tail-banner
+booktoki479.com##.btn-lg.btn-info.btn
+booktoki479.com##.go-top
+booktoki479.com##.page-desc
+booktoki479.com##.text-center.well
+booktoki479.com###content_wrapper > div > .row-15.row
+booktoki479.com###content_wrapper > div:nth-of-type(2)
+booktoki479.com###hd_pop
+booktoki479.com###id_mbv
+booktoki479.com###main-banner-view
