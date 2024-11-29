@@ -1,3 +1,4 @@
+!1129
 !팝업스크롤
 !example.com##body:style(overflow: auto !important;)
 !example.com##html,body:style(overflow: auto !important;)
@@ -1292,35 +1293,6 @@ richtv24.com###header
 richtv24.com##div.xe-widget-wrapper:nth-of-type(1)
 richtv24.com##div.xe-widget-wrapper:nth-of-type(2)
 richtv24.com##h1
-ridibooks.com##.active.detail_similar.detail_box_module
-ridibooks.com##.detail_aside_wrap
-ridibooks.com##.detail_guide_romance.detail_guide.detail_box_module
-ridibooks.com##.detail_info.detail_box_module
-ridibooks.com##.detail_introduce_book.detail_box_module
-ridibooks.com##.download_body_wrapper
-ridibooks.com##.event_detail_top
-ridibooks.com##.fig-1779n19
-ridibooks.com##.fig-8fscn2
-ridibooks.com##.Header_Metadata_Block
-ridibooks.com##.header_preference
-ridibooks.com##.info_title_sub_wrap
-ridibooks.com##.js_checkout_book_title
-ridibooks.com##.js_detail_introduce_author.detail_introduce_author.detail_box_module
-ridibooks.com##.js_detail_keyword_module.detail_keyword.detail_box_module
-ridibooks.com##.js_detail_review.detail_review.detail_box_module
-ridibooks.com##.js_launch_app_purchased_list.rui_button_white_50
-ridibooks.com##.js_show_another_payment
-ridibooks.com##.metadata_info_series_complete_wrap
-ridibooks.com##.metadata_rate
-ridibooks.com##.publisher_info.file_info.metadata
-ridibooks.com##.serial_checkout_wrapper.popup_body > .checkout_contents_wrapper > .checkout_description > .main_description
-ridibooks.com##.series_buy_tab
-ridibooks.com##.trackable.detail_header
-ridibooks.com###__next__footer
-ridibooks.com###__RIDIPARTIAL_FOOTER_DROPOFF
-ridibooks.com###__RIDIPARTIAL_PACKAGES_DROPOFF
-ridibooks.com###js_serial_checkout_cash_and_point_popup > .serial_checkout_wrapper.popup_body > .checkout_buttons
-ridibooks.com##article.detail_introduce_author.detail_box_module
 ringtones.ocooooo.com
 ruliweb.com##.fixed_layer1
 sacdnssedge.com
@@ -1599,15 +1571,15 @@ wikipedia.org##.vector-sitenotice-container
 wikipedia.org###siteNotice
 windy.com##.premium-button
 wuthering-waves.interactivemap.app###kofi-widget-overlay-6a8bddb9-6e8b-4a6d-a0a0-d4f370aa15f9
-www.apkmirror.com##.f-100.google-ad-billboard.gooWidget
-www.apkmirror.com##.google-ad-square-sidebar.gooWidget
-www.apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
-www.apkmirror.com##.x-showOnTabletAndDesktop.google-ad-square-inline.gooWidget
-www.apkmirror.com###adtester-container-126 > .gooWidget > .adslot.data-adsbygoogle
-www.apkmirror.com###adtester-container-127 > .gooWidget
-www.hankyung.com##.promotion-floating2
-www.reddit.com###credential_picker_container
-www.sisafocus.co.kr##.banner_box
+apkmirror.com##.f-100.google-ad-billboard.gooWidget
+apkmirror.com##.google-ad-square-sidebar.gooWidget
+apkmirror.com##.show.set-max-width.container-fluid.apkm-timed-slider
+apkmirror.com##.x-showOnTabletAndDesktop.google-ad-square-inline.gooWidget
+apkmirror.com###adtester-container-126 > .gooWidget > .adslot.data-adsbygoogle
+apkmirror.com###adtester-container-127 > .gooWidget
+hankyung.com##.promotion-floating2
+reddit.com###credential_picker_container
+sisafocus.co.kr##.banner_box
 xda-developers.com##.ad-current
 xhamster.com##.uxK-CyWpremium-n-overlay
 xhamster.com##.a55fc-pauseSpotContainer
@@ -1924,7 +1896,7 @@ creative.xxxvjmp.com
 s1.kbj.so##.masthead-banner
 s1.kbj.so##.site-footer
 guccihide.store##.jw-logo
-www.mi.com###truste-consent-track
+mi.com###truste-consent-track
 syndication.realsrv.com
 realsrv.com
 mc7clurd09pla4nrtat7ion.com
@@ -1980,6 +1952,30 @@ ternity.net##.pager
 shemale6.com##.▭_scrollable-doc
 shemale6.com##.sh-advertising
 bestialitylovers.net##body > iframe
+guccihide.store##body > div
+kissjav.com###player-advertising
+fotokiz.com##div#clck_ntv > div
+fotokiz.com##.roll
+imgsto.com##div#clck_ntv > div
+imgsto.com##.roll
+pics4you.net###clck_ntv > div
+pics4you.net##.roll
+73ggggg.com###couplet
+73ggggg.com###midBox
+73ggggg.com###topBox
+73ggggg.com###btmBox
+youtube.com###simple-box.ytd-comments-header-renderer.style-scope
+linkvertise.com##.cdk-overlay-container
+idol69.net##.popup-box-ads
+coupangplay.com##div.styles_scoreColumn__2GiuJ:nth-of-type(5)
+coupangplay.com##div.styles_scoreColumn__2GiuJ:nth-of-type(3)
+4khd.com##.popup
+torrentbot160.com###ad_1036
+torrentbot160.com###ad_781
+torrentbot160.com###ad_780
+torrentbot160.com###ad_777
+torrentbot160.com##.md\:mt-0.mt-40.new-row.mb-4.gap-2.md\:grid-cols-3.grid-cols-1.grid
+torrentbot160.com##.mmbannel
 newtoki460.com##.at-copyright
 newtoki460.com##.at-go
 newtoki460.com##.basic-banner
@@ -2640,3 +2636,10 @@ manatoki479.net##.text-center.well
 manatoki479.net###hd_pop
 manatoki479.net###id_mbv
 manatoki479.net###main-banner-view
+chatgpt.com##.z-20.right-0.left-0.bottom-full.absolute
+search.naver.com##._fe_trend_keyword.sp_trend.sc_new
+deepl.com##.max-\[399px\]\:hidden.empty\:hidden
+deepl.com##.empty\:hidden.z-20.right-2.bottom-2.fixed
+deepl.com##.mobile\:hidden > .lg\:px-\[70px\].p-8
+deepl.com##.relative.bg-neutral-next-50 > .mobile\:hidden
+deepl.com##footer
