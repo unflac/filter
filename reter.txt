@@ -596,3 +596,4 @@ avtv.cc
 player.hboav.com##div.cc5278_banner_ad:nth-of-type(4)
 saawsedge.com
 twitch.tv##[class^="extensions-dock"]
+naver.com##[id^="_JOURNALISTCARD_SUMMARY_TOOLTIP"]
