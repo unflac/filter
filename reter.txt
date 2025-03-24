@@ -13,7 +13,7 @@ youtube.com##.ytp-endscreen-content
 youtube.com###logo
 youtube.com##.ytp-suggested-action-badge-expanded
 youtube.com/###simple-box.ytd-comments-header-renderer.style-scope
-
+naver.com##[class^="PcProfile_root"]
 twitch.tv##.extensions-video-overlay-size-container
 twitch.tv###twilight-sticky-footer-root
 talks.naver.com##[class^="banner-ad_wrap"]
