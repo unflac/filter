@@ -59,7 +59,8 @@ pay.naver.com##[class^="Shopping-module_tooltip"]
 photopea.com##div.pgAdWrapper
 item.gmarket.co.kr##.vip-cpcarea
 item.gmarket.co.kr##.box__plcc-banner
-entertain.naver.com##[class^="RecommendContentPopup_comp_recommend_content_popup"]
+naver.com##[class^="RecommendContentPopup_comp_recommend_content_popup"]
+naver.com##[class^="RecommendContentPopup_button_message"]
 escrow.auction.co.kr###sideAds
 escrow.auction.co.kr##.app_install_qacode
 signinssl.gmarket.co.kr###login-banner-box
