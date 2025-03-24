@@ -1,3 +1,82 @@
+youtube-nocookie.com##.ytp-pause-overlay-container
+youtube.com/api/stats/ads?ver=2
+youtube.com/api/stats/ads*
+youtube.com##.ab4yt-dialog
+youtube.com##.adDisplay
+youtube.com##.annotation
+youtube.com##.branding-img-container
+youtube.com##.companion-ad-container
+youtube.com##.GoogleActiveViewElement.sparkles-light-cta.ytd-watch-next-secondary-results-renderer.style-scope
+youtube.com##.GoogleActiveViewElement.ytd-watch-next-secondary-results-renderer.style-scope
+youtube.com##.html5-ypc-overlay
+youtube.com##.player-controls-background
+youtube.com##.video-ads
+youtube.com##.yt-live-chat-viewer-engagement-message-renderer
+youtube.com##.ytd-ad-slot-renderer.style-scope
+youtube.com##.ytd-carousel-ad-renderer
+youtube.com##.ytd-comment-engagement-bar
+youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-display-ad-renderer.style-scope
+youtube.com##.ytd-rich-section-renderer.style-scope
+youtube.com##.ytd-search-pyv-renderer.style-scope
+youtube.com##.ytd-watch-metadata.style-scope > .ytd-menu-renderer.style-scope.top-level-buttons
+youtube.com##.ytm-bottom-sheet-overlay-container
+youtube.com##.ytp-ad-player-overlay-instream-info
+youtube.com##.ytp-cards-button-icon
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element-show
+youtube.com##.ytp-chrome-top-buttons
+youtube.com##.ytp-endscreen-content
+youtube.com##.ytp-endscreen-next
+youtube.com##.ytp-endscreen-previous
+youtube.com##.ytp-info-panel-preview
+youtube.com##.ytp-paid-content-overlay
+youtube.com##.ytp-pause-overlay-container
+youtube.com##.ytp-scroll-min
+youtube.com##.ytp-youtube-button
+youtube.com###ab4yt-brand
+youtube.com###action-buttons > .ytd-comment-action-buttons-renderer.style-scope
+youtube.com###ad-image\:8
+youtube.com###content > .ytd-rich-section-renderer.style-scope
+youtube.com###copyright
+youtube.com###global-loader
+youtube.com###guide-links-primary
+youtube.com###guide-links-secondary
+youtube.com###masthead-ad
+youtube.com###offer-module
+youtube.com###player-ads
+youtube.com###reaction-control-panel
+youtube.com###related
+youtube.com###root-container
+youtube.com###spinner
+youtube.com###subscribe-button > .ytd-video-secondary-info-renderer.style-scope
+youtube.com###title.ytd-rich-grid-renderer
+youtube.com###voice-search-button
+youtube.com###ytp-pause-overlay
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##tp-yt-paper-tooltip.ytd-notification-topbar-button-renderer.style-scope
+youtube.com##tp-yt-paper-tooltip.ytd-searchbox.style-scope
+youtube.com##tp-yt-paper-tooltip.ytd-topbar-menu-button-renderer.style-scope
+youtube.com##ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
+youtube.com##ytd-compact-movie-renderer.ytd-item-section-renderer.style-scope
+youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+youtube.com##ytd-emergency-onebox-renderer.ytd-item-section-renderer.style-scope
+youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
+youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
+youtube.com##ytd-thumbnail-overlay-time-status-renderer.ytd-thumbnail.style-scope
+youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope > .ytd-toggle-button-renderer.style-scope.yt-simple-endpoint
+youtube.com##ytm-compact-playlist-renderer.feed-item.item
+youtube.com##ytm-companion-ad-renderer
+youtube.com##ytm-video-with-context-renderer.feed-item.item
+youtube.com##ytm-watch-metadata-app-promo-renderer
+youtube.com##ytd-merch-shelf-renderer.ytd-watch-flexy.style-scope
+youtube.com###logo
+youtube.com##.ytp-suggested-action-badge-expanded
+youtube.com/###simple-box.ytd-comments-header-renderer.style-scope
+
 twitch.tv##.extensions-video-overlay-size-container
 twitch.tv###twilight-sticky-footer-root
 talks.naver.com##[class^="banner-ad_wrap"]
