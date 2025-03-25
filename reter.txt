@@ -30,6 +30,7 @@ youtube.com##.ytp-suggested-action-badge-expanded
 youtube.com/###simple-box.ytd-comments-header-renderer.style-scope
 
 naver.com##[class^="top_banner_container__"]
+naver.com##[class^="recommend_live_page_home__"]
 naver.com##[id^="_JOURNALISTCARD_SUMMARY_TOOLTIP"]
 naver.com##[class^="PcProfile_root"]
 naver.com##[class^="banner-ad_wrap"]
