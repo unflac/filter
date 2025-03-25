@@ -29,6 +29,7 @@ youtube.com###logo
 youtube.com##.ytp-suggested-action-badge-expanded
 youtube.com/###simple-box.ytd-comments-header-renderer.style-scope
 
+naver.com##[class^="top_banner_container"]
 naver.com##[id^="_JOURNALISTCARD_SUMMARY_TOOLTIP"]
 naver.com##[class^="PcProfile_root"]
 naver.com##[class^="banner-ad_wrap"]
