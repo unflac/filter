@@ -531,6 +531,20 @@ steampowered.com##.related_items_ctn
 
 ###jw-ad-banner
 
+danawa.com##.adreader_box
+danawa.com###premiumBanner
+dailygame.co.kr##.mdin1_lt > div:nth-of-type(3)
+dailygame.co.kr##.mt27
+dailygame.co.kr##.dailygame_pcviewad007
+dailygame.co.kr##.dailygame_pcviewad009
+inven.co.kr##.sc-banner
+ign.com###zad-billboard-075a5d9a5322c
+pushsquare.com##.optional.related-group > .for-desktop.lazyload.with-label.block.centered.insert
+pushsquare.com##.author-info
+pushsquare.com##.lazyload.for-desktop.article-billboard.centered.insert
+pushsquare.com###page-sidebar > div.for-desktop.insert
+pushsquare.com###page-sidebar > div.lazyload.insert
+pushsquare.com###page > .inset
 twitch.tv##.extensions-video-overlay-size-container
 twitch.tv###twilight-sticky-footer-root
 5278.cc##[src^="https://player.hboav.com/guga/"]
