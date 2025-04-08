@@ -560,7 +560,7 @@ pastebin.com##.-on.sidebar__sticky
 pornhub.com##.searchBottomSection.bottomSection.sectionWrapper
 gmarket.co.kr###login-banner-box
 greened.kr##[src^="/bannerpop/"]
-cool114.com##.title_wrap
+cool111.com##.title_wrap
 coupangplay.com##[class^="LeagueDetailFeed_teamInfo"] > div:nth-of-type(2)
 prod.danawa.com##.box__vs-tooltip
 danawa.com##.ttop_banner
@@ -611,11 +611,11 @@ yna.co.kr##.aside-box400
 yna.co.kr##.aside-box221
 yna.co.kr##.aside-box211
 epicgames.com##.epic_games.egh-theme
-cool114.com##.show.go-top
-cool114.com##.footer_wrap
-cool114.com##.contents_left
-cool114.com##.contents_right
-cool114.com###wrap
+cool111.com##.show.go-top
+cool111.com##.footer_wrap
+cool111.com##.contents_left
+cool111.com##.contents_right
+cool111.com###wrap
 kav.so/wp-content/uploads/2021/11/TKFM.gif
 kav.so##.af-blocks
 kav.so##.af-main-banner-latest-posts
