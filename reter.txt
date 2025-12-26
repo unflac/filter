@@ -806,8 +806,6 @@ shopping.naver.com##[class*="_headerControl_description"]
 shopping.naver.com##[class*="NaverPlusMembership_tooltip_info"]
 shopping.naver.com##[class*="promotionBannerResponsive_promotion_banner_Responsive"]
 shortcha.com
-shortcha.sng.link
-signinssl.gmarket.co.kr##.box__seller-banner
 skylindo.com
 sports.naver.com##.mfc_modmargingallery_type_volume.mfc_modmargingallery_margin
 sports.naver.com##.mfc_modmarginnofix_margin
