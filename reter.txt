@@ -666,7 +666,6 @@ kav.so##.af-main-banner-latest-posts
 kav.so##.exo-ipp-container
 kav.so##.fixed-banner
 kav.so##.masthead-banner
-kav.so##.site-footer
 kav.so##.widget
 kav.so###scroll-up
 khan.co.kr##li.ad-txt-ncover
