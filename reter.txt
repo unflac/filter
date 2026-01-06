@@ -579,11 +579,6 @@ cool111.com##.footer_wrap
 cool111.com##.show.go-top
 cool111.com##.title_wrap
 cool111.com###wrap
-coupang.com##.fw-overflow-hidden.fw-flex-col.fw-flex-1.fw-flex.fw-mt-\[20px\] > .fw-mb-\[20px\]
-coupang.com##.seo-sdp-linking-module-wrapper
-coupang.com###sdp-bottom-banner
-coupang.com###sdp-mid-banner-btf
-coupangplay.com##[class^="LeagueDetailFeed_teamInfo"] > div:nth-of-type(2)
 dailygame.co.kr##.dailygame_pcviewad007
 dailygame.co.kr##.dailygame_pcviewad009
 dailygame.co.kr##.mdin1_lt > div:nth-of-type(3)
